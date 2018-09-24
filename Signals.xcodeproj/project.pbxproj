@@ -710,7 +710,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "artman.fi.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = Signals;
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
@@ -728,7 +728,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "artman.fi.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = Signals;
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Release;
 		};
@@ -778,6 +778,7 @@
 				PRODUCT_NAME = Signals;
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = 4;
 			};
 			name = Debug;
@@ -802,6 +803,7 @@
 				PRODUCT_NAME = Signals;
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = 4;
 			};
 			name = Release;
@@ -821,6 +823,7 @@
 				PRODUCT_NAME = Signals;
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = 3;
 			};
 			name = Debug;
@@ -840,6 +843,7 @@
 				PRODUCT_NAME = Signals;
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = 3;
 			};
 			name = Release;
@@ -884,6 +888,7 @@
 				PRODUCT_NAME = Signals;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
@@ -903,6 +908,7 @@
 				PRODUCT_NAME = Signals;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Release;
 		};
